@@ -1,13 +1,13 @@
 # IT Service Management (ITSM) Fundamentals
 
-![badge](screenshots/badge.png)
+![badge](screenshots/badge1.png)
 
 **Completed ServiceNow IT Service Management (ITSM) training focused on the core processes used to deliver and support enterprise IT services. Topics included Service Catalog, Request Management, Incident management, Problem Management, Change Management, Configuration Management, and Knowledge Management.**
 
 <br>
 <br>
 
-![badge1](screenshots/badge1.png)
+![badge1](screenshots/badge.png)
 
 ## Key concepts:
 * ITSM principles and service delivery lifecycle
