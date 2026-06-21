@@ -2,9 +2,9 @@
 
 ![badge](screenshots/badge.png)
 
-## Completed ServiceNow IT Service Management (ITSM) training focused on the core processes used to deliver and support enterprise IT services. Topics included Service Catalog, Request Management, Incident management, Problem Management, Change Management, Configuration Management, and Knowledge Management.
+### Completed ServiceNow IT Service Management (ITSM) training focused on the core processes used to deliver and support enterprise IT services. Topics included Service Catalog, Request Management, Incident management, Problem Management, Change Management, Configuration Management, and Knowledge Management.
 
-![badge1](screenshots/badge1.PNG)
+![badge1](screenshots/badge1.png)
 
 ## Key concepts:
 * ITSM principles and service delivery lifecycle
@@ -21,7 +21,7 @@
 
 # Walkthrough:
 
-![0 & 1](screenshots/course1new.PNG)
+![0 & 1](screenshots/course1new.png)
 ## 0. Welcome to ITSM Fundamentals
 * **Focus:** Setup
 * **Summary:** Started by getting oriented with the course, downloading participant guide, and provisioned my personal, hands-on lab instance.
@@ -38,7 +38,7 @@
 ---
 <br>
 
-![2 & 3](screenshots/course2new.PNG)
+![2 & 3](screenshots/course2new.png)
 ## 2. Operate IT Services
 * **Focus:** Request Management
 * **Summary:** I worked with the Service Catalog to handle end-user requests. In **Lab 2.3.1 & Lab 2.3.2**, I practiced submitting catalog items, routing them through approval workflows, and tracking fulfillment tasks.
@@ -70,7 +70,7 @@
 ---
 <br>
 
-![4 & 5](screenshots/course3new.PNG)
+![4 & 5](screenshots/course3new.png)
 ## 4. Improve IT Services
 * **Focus:** Change Management
 * **Summary:** I learned how to push IT infrastructure updates safely while minimizing risk. In **Labs 4.2.1 and 4.2.2**, I created change requests, routed them through necessary approvals, and trcaked them through execution to formal closure.
