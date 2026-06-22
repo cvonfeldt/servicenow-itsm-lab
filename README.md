@@ -61,6 +61,10 @@
 ### Lab 2.3.2: Verify Request Fulfillment And Tracking
 * Managed and updated the underlying fulfillment tasks to track the requested item all the way to completion.
 
+Verified requested item RITM0010001 (Lenovo Carbon x1) is visible with approval status and item details, verified requested item task "Items ready to be fulfilled from stock" is present with a start date, and
+verified request state shows Stage: Order Fulfillment with Approval: Approved confirming the request progressed correctly:
+![2 & 3](screenshots/lab2.1.png)
+
 <br>
 
 ## 3. Maintain IT Services
